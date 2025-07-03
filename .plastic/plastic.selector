@@ -1,0 +1,4 @@
+repository "7 Days in Oberschöllenbach - Shitfuck Revolution/7 Days in Oberschöllenbach - Shitfuck Revolution@9071613898659@cloud"
+  path "/"
+    br "/main"
+    co "/main"
