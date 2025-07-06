@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 264628fd686efd44f8fb02a55925b7c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305184
+  packageName: Input Event System - Gaskellgames
+  packageVersion: 1.3.1
+  assetPath: Assets/Gaskellgames/InputEventSystem/Runtime/Scripts/VisualiserIcons.cs
+  uploadId: 762988

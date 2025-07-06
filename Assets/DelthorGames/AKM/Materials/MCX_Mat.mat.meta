@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf75e460d27dbf643b55b2f4b36d0c4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177248
+  packageName: FPS Weapon - MCX
+  packageVersion: 1.0
+  assetPath: Assets/DelthorGames/AKM/Materials/MCX_Mat.mat
+  uploadId: 385823

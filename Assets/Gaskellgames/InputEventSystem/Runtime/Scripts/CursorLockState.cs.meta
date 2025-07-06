@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c19ec02a4a9269c4da55c19a34e8dfc3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 76333234355f90e499221542ff912c34, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 305184
+  packageName: Input Event System - Gaskellgames
+  packageVersion: 1.3.1
+  assetPath: Assets/Gaskellgames/InputEventSystem/Runtime/Scripts/CursorLockState.cs
+  uploadId: 762988
